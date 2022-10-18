@@ -1,4 +1,4 @@
-
+![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # LAB | HTML & CSS - Spotify Clone
 
@@ -64,3 +64,5 @@ Let's do this!
 
 - It looks like we have 2 main sections, a containing element with the text flowing from top to bottom, and the image of the Spotify player on the right.
 - Position the Spotify logo absolutely according to the _green_ `div`.
+
+Happy coding! :heart:
