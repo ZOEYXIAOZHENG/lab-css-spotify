@@ -6,7 +6,7 @@
 
 header {
     width: 100vw;
-    height: 6vh;
+    height: 7vh;
     position: fixed;
     display: flex;
     align-items: center;
@@ -16,7 +16,7 @@ header {
 
 #logo {
     width: 20vw;
-    height: 5vh;
+    height: 6vh;
     margin-left:2vw;
 }
 #logo > img {
@@ -25,12 +25,12 @@ header {
 
 #navbar {
     display: flex;
-    height: 5vh;
+    height: 7vh;
     width: 30vw;
     justify-content: space-evenly;
     font-family: sans-serif;
     font-weight: lighter;
-    font-size: 1.5em;
+    font-size: 1.1em;
     align-items: center;
     position: absolute;
     right: 1vw;
@@ -59,7 +59,7 @@ header {
 
 .text-base > h1 {
     font-family: sans-serif;
-    font-size: 7em;
+    font-size: 6em;
     margin-bottom: 2vh;
 }
 
@@ -89,7 +89,7 @@ header {
 #container {
     margin-top: 30px;
     width: 100vw;
-    height: 35vh;
+    height: 40vh;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -97,14 +97,14 @@ header {
 }
 .songs {
     height: 30vh;
-    width: 20vw;
+    width: 22vw;
     margin: 0;
     align-items: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
     row-gap: 10px;
-    padding: 50px 50px;
+    padding: 40px 40px;
 }
 
 .songs > img {
@@ -114,6 +114,7 @@ header {
 
 .songs > h1 {
     color: #00B172;
+    font-size: 2em;
 }
 
 .songs > h4 {
